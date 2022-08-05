@@ -1,0 +1,1 @@
+Comando Ejecutar en CMD : gradle clean test

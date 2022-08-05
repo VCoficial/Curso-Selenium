@@ -1,0 +1,4 @@
+com/co/senasoft/steps/LoginStep.java
+ com.co.senasoft.steps.LoginStep
+com/co/senasoft/pagesobjects/LoginPage.java
+ com.co.senasoft.pagesobjects.LoginPage
